@@ -201,7 +201,7 @@ console.log(`Dizinin uzunluğu: ${sayilar.length}`);
 
 function sa() {
   console.log("Kodlar çalışıyor");
-  return "as";
+  return "okey";
 }
 sa();
 module.exports = {
